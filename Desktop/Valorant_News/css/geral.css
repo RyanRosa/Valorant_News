@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.navbar {
+    background: linear-gradient(-90deg, rgb(255,68,79), rgb(0,0,0));
+}
+
+div#carouselExampleFade {
+    margin-top: 10px;
+}
+
+div#interface {
+    width: 80%;
+    background-color:white;
+    margin: -20px auto 0px auto;
+    padding: 10px 10px 10px 10px;
+}
+
+ul#redirecionamento {
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+  color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+a#linkjogo {
+    color: black;
+    text-decoration: underline;
+}
+
+p#titulo2 {
+    font-size: 30px;
+    text-align: center; 
+    padding: 40px 0px 10px 0px;
+    font-weight: bolder;
+
+}
+
+hr {
+    width: 100%;
+    border-bottom: 1px solid #000000;
+}
+
+h1#titulo {
+    padding-bottom: 45px;  
+}
+
+p#texto-jumbotron {
+    padding-top: 20px;
+    font-family: Helvetica;
+}
+
+#jumbotron{
+    margin-bottom: -10px;
+}
